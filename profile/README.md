@@ -1,8 +1,8 @@
 # OnDB
 
-**We enable intelligence for AI Agents by giving them access to private and proprietary data.**
+**The proprietary data layer for AI agents.**
 
-OnDB helps SaaS platforms and data providers monetize their proprietary data for AI agents -- with automatic per-query billing, discovery, and zero migration. 80% of the world's data is private. AI agents need it to be useful, and they're willing to pay for it. OnDB is the economic layer that turns bot traffic from a cost center into a revenue stream.
+80% of the world's data is private. AI agents need it to be useful -- and they're willing to pay for it. Proprietary data is what makes the difference between an agent and a smart agent. OnDB is the economic layer that makes this exchange happen.
 
 ## How It Works
 
